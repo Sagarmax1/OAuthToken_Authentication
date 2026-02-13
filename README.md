@@ -1,5 +1,5 @@
 # OAuthToken_Authentication
-In this Repository , i used to Generte OAuth Token and Try to send PayLoad from Console Appplication
+In this Repository , I used to Generate OAuth Token and Try to send PayLoad from Console Appplication
 
 
  static async Task Main(string[] args)
